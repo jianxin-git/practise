@@ -12,5 +12,6 @@ int main(void)
 	printf("hello world\n");
 	printf("this is 2.0\n");
 	printf("this is 3.0\n");
+	printf("this is 4.0, git clone\n");
 	return 0;
 }
